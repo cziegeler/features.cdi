@@ -1,0 +1,24 @@
+{
+  "bundles":[
+    {
+      "id":"org.apache.felix:org.apache.felix.webconsole:4.3.12",
+      "start-order":10
+    },
+    {
+      "id":"org.apache.felix:org.apache.felix.webconsole.plugins.ds:2.1.0",
+      "start-order":10
+    },
+    {
+      "id":"org.apache.felix:org.apache.felix.webconsole.plugins.event:1.1.8",
+      "start-order":10
+    },
+    {
+      "id":"org.apache.felix:org.apache.felix.webconsole.plugins.packageadmin:1.0.4",
+      "start-order":10
+    },
+    {
+      "id":"org.apache.sling:org.apache.sling.commons.log.webconsole:1.0.0",
+      "start-order":10
+    }
+  ]
+}
