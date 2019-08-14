@@ -29,7 +29,7 @@
       "start-order":1
     },
     {
-      "id":"org.apache.sling:org.apache.sling.commons.log:5.1.11-SNAPSHOT",
+      "id":"org.apache.sling:org.apache.sling.commons.log:5.1.10",
       "start-order":1
     },
     {
@@ -103,5 +103,10 @@
   ],
   "framework-properties" : {
     "felix.cm.pm" : "featurelauncher"
+  },
+  "configurations" : {
+    "dummy.config" : {
+      "foo" : "bar"
+    }
   }
 }

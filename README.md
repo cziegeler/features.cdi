@@ -11,5 +11,5 @@ Then build and run this project:
 
 1. Build this project with 'mvn clean install'
 2. Run the OSGi Framework with 'mvn exec:java'
-3. Go to http://localhost:8080/system/console or http://localhost/8080/
+3. Go to http://localhost:8080/system/console (login: admin/admin) or http://localhost:8080/guessinggame/game
 
